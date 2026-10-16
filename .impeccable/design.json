@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T07:04:52.619072+00:00",
+  "title": "Design System: Sepro Bestratingen",
+  "extensions": {
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "570px"
+      },
+      {
+        "name": "navigation",
+        "value": "760px"
+      },
+      {
+        "name": "medium",
+        "value": "1050px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "html": "<button class=\"ds-button\">Bespreek uw project</button>",
+      "css": ".ds-button{background:#a75e37;color:white;font:700 13px Manrope,sans-serif;border:0;border-radius:6px;padding:14px 22px;min-height:52px}.ds-button:hover{background:#884622}.ds-button:focus-visible{outline:3px solid #a75e37;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Clean en duidelijk in Sepro branding",
+    "overview": "Helder vakwerk, echte projectbeelden en zichtbaar contact.",
+    "keyCharacteristics": [
+      "Witruimte",
+      "Koperaccenten",
+      "Grote echte projectfoto’s"
+    ],
+    "rules": [],
+    "dos": [
+      "Gebruik echte Sepro-beelden en bevestigde contactgegevens."
+    ],
+    "donts": [
+      "Verzin geen reviews of klantenaantallen."
+    ]
+  }
+}

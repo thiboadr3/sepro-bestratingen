@@ -1,0 +1,17 @@
+{
+  "logo.jpg": "https://sepro-bestratingen.be/gallery_gen/379ea9056bd200e0e2f091e0c8122cff_fit.jpg",
+  "banner.jpeg": "https://sepro-bestratingen.be/gallery_gen/cfda13ec13256e0aa35b20f7c747add8_2498x600_fit.jpeg",
+  "project-0.jpg": "https://sepro-bestratingen.be/gallery_gen/29923fa234c3f94c21af23226be29125_fit.jpg",
+  "project-1.jpg": "https://sepro-bestratingen.be/gallery_gen/8f031e08be9b7a35b03936f43cf6dc79_fit.jpg",
+  "project-2.jpg": "https://sepro-bestratingen.be/gallery_gen/9125efbffd34cab72ded1e8521d2f288_fit.jpg",
+  "project-3.jpg": "https://sepro-bestratingen.be/gallery_gen/5c59978e12b0e5a446235d7b6db998d9_fit.jpg",
+  "project-4.jpeg": "https://sepro-bestratingen.be/gallery_gen/769b031cfc86697077f7bf8d06277f0e_fit.jpeg",
+  "project-5.jpg": "https://sepro-bestratingen.be/gallery_gen/a50547e699116be8623755c390a17a8e_fit.jpg",
+  "project-6.jpg": "https://sepro-bestratingen.be/gallery_gen/5085ca12073c4aa9f8cdc711c7258f7d_fit.jpg",
+  "logo-black.png": {
+    "source": "logo.jpg",
+    "method": "ImageGen background extraction and monochrome conversion",
+    "date": "2026-10-16",
+    "usage": "Black header logo; white footer rendered with CSS brightness/invert"
+  }
+}
