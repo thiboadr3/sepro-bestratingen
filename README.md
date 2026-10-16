@@ -16,3 +16,6 @@ https://sepro-bestratingen-demo.office560617.chatgpt.site/
 - Ondersteuning voor verminderde beweging.
 
 De website staat volledig in `dist/`. Publiceer die map als statische website. De bestaande Sites-hosting is vastgelegd in `.openai/hosting.json`; deze GitHub-repo publiceert niet automatisch naar die hosting.
+
+## Netlify
+`netlify.toml` publiceert de map `dist` zonder buildstap. Koppel de `main`-branch; laat de base directory op de hoofdmap staan. Na een push publiceert Netlify opnieuw wanneer automatische deploys actief zijn.
